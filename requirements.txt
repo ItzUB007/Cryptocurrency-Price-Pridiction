@@ -1,0 +1,7 @@
+tensorflow
+keras
+sklearn
+numpy
+pandas
+matplotlib
+yahoo_fin
